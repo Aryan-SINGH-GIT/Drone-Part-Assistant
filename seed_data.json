@@ -1,0 +1,44 @@
+[
+  {
+    "title": "Pixhawk Pro 6C Kit Flight Controller",
+    "url": "https://thinkrobotics.com/products/pixhawk-kit-online",
+    "retailer_id": "thinkrobotics",
+    "category": "flight_controller",
+    "target_price": 25000.0
+  },
+  {
+    "title": "PX4 PPM Encoder Board for Pixhawk",
+    "url": "https://thinkrobotics.com/products/pixhawk-i2c-splitter-module",
+    "retailer_id": "thinkrobotics",
+    "category": "carrier_board",
+    "target_price": 900.0
+  },
+  {
+    "title": "OV5647 5MP IR-Cut Night Vision Camera for Raspberry Pi",
+    "url": "https://robu.in/product/ov5647-5mp-ir-cut-camera-for-raspberry-pi-3-with-automatic-day-night-mode-switching/",
+    "retailer_id": "robu",
+    "category": "companion_computer",
+    "target_price": 1000.0
+  },
+  {
+    "title": "3.5 inch Touch Screen LCD Display HAT for Raspberry Pi",
+    "url": "https://robu.in/product/3-5-touch-screen-lcd-raspberry-pi/",
+    "retailer_id": "robu",
+    "category": "hat_carrier",
+    "target_price": 1000.0
+  },
+  {
+    "title": "Official Raspberry Pi Case for Raspberry Pi 5",
+    "url": "https://evelta.com/official-raspberry-pi-case-for-raspberry-pi-5/",
+    "retailer_id": "evelta",
+    "category": "hat_carrier",
+    "target_price": 900.0
+  },
+  {
+    "title": "NEO-6M GPS Module with EPROM for Flight Controller",
+    "url": "https://robu.in/product/ublox-neo-6m-gps-module/",
+    "retailer_id": "robu",
+    "category": "flight_controller",
+    "target_price": 300.0
+  }
+]

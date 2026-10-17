@@ -1,0 +1,32 @@
+# Core Async & HTTP
+httpx>=0.27.0
+curl_cffi>=0.7.0
+beautifulsoup4>=4.12.0
+lxml>=5.2.0
+
+# Data Models & Config
+pydantic>=2.7.0
+pydantic-settings>=2.2.0
+python-dotenv>=1.0.0
+
+# Database & ORM
+SQLAlchemy>=2.0.0
+greenlet>=3.0.0
+aiosqlite>=0.20.0
+
+# Scheduling & Background Jobs
+APScheduler>=3.10.4
+
+# Messaging & Bot
+python-telegram-bot>=21.0.0
+
+# LLM Providers (supports Gemini, OpenAI, Groq)
+google-genai>=1.0.0
+openai>=1.30.0
+
+# CLI & Formatting
+rich>=13.7.0
+
+# Testing
+pytest>=8.0.0
+pytest-asyncio>=0.23.0

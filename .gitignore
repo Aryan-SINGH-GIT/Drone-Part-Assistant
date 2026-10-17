@@ -1,0 +1,55 @@
+# ─── Python ──────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+wheels/
+pip-wheel-metadata/
+
+# ─── Virtual Environment ──────────────────────────────────────────────────────
+venv/
+.venv/
+env/
+ENV/
+
+# ─── Secrets & Environment ───────────────────────────────────────────────────
+.env
+# Keep .env.example (template for users)
+
+# ─── Database ────────────────────────────────────────────────────────────────
+*.db
+*.sqlite3
+*.db-shm
+*.db-wal
+
+# ─── Testing & Coverage ──────────────────────────────────────────────────────
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+*.coveragerc
+
+# ─── Logs ────────────────────────────────────────────────────────────────────
+*.log
+logs/
+
+# ─── IDE / Editor ────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# ─── Distribution ────────────────────────────────────────────────────────────
+*.tar.gz
+*.zip
+
+# ─── Task / Brief (not for public repo) ─────────────────────────────────────
+Task*.pdf
